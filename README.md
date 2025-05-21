@@ -1,2 +1,2 @@
 # NGO
- # Live website :- [NGO](https://Ghost1pm.github.io/NGO/)
+ # Live website :- [NGO](https://priyammittal9.github.io/NGO/)
